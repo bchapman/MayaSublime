@@ -1,6 +1,9 @@
 # MayaSublime
 ### A Sublime Text 2 plugin
 
+# In Progress
+<!-- 
+
 Send selected MEL/Python code snippets to Maya via commandPort
 
 ----------
@@ -33,3 +36,4 @@ cmds.commandPort(name=":7002", sourceType="python")
 cmds.commandPort(name=":10000", sourceType="mel")
 
 ```
+ -->
