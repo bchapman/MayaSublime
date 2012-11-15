@@ -4,6 +4,30 @@
         "command": "send_to_maya"
     },
     {
+        "caption": "Maya: Watch History",
+        "command": "watch_maya_history"
+    },
+    {
+        "caption": "Maya: Stop Watching History",
+        "command": "stop_watching_maya_history"
+    },
+    {
+        "caption": "Maya: Clear Maya History",
+        "command": "clear_maya_history"
+    },
+    {
+        "caption": "Maya: Close Maya History",
+        "command": "close_maya_history"
+    },
+    {
+        "caption": "Maya: Show Maya History",
+        "command": "show_maya_history"
+    },
+    {
+        "caption": "Maya: Toggle Maya History",
+        "command": "toggle_maya_history"
+    },
+    {
         "caption": "Preferences: Maya Settings",
         "command": "open_file", "args":
         {

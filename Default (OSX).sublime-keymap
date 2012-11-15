@@ -6,14 +6,16 @@
 	{ 
 		"keys": ["ctrl+enter"], 
 		"command": "send_to_maya",
-		"args": {"lang": "python"},
-		"context": [{"key": "selector", "operator": "equal", "operand": "source.python"}]
+		"args": {"lang": "python"}
 	},
 	{ 
 		"keys": ["ctrl+keypad_enter"], 
 		"command": "send_to_maya",
-		"args": {"lang": "python"},
-		"context": [{"key": "selector", "operator": "equal", "operand": "source.python"}]
+		"args": {"lang": "python"}
+	},
+	{
+		"keys": ["f10"],
+		"command": "toggle_maya_history"
 	},
 
 	
